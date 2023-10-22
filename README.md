@@ -44,4 +44,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 This project is licensed under the MIT License. See the [MIT LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or further information, feel free to contact us at  [Your Name](mailto:erdemtahasokullu@gmail.com).
+For questions or further information, feel free to contact us at  [Mail](mailto:erdemtahasokullu@gmail.com).
